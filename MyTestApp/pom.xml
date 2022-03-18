@@ -5,7 +5,7 @@
   <groupId>my.test.app</groupId>
   <artifactId>MyTestApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>MyTestApp</name>
   <url>http://maven.apache.org</url>
